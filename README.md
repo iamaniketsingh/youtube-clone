@@ -1,1 +1,1 @@
-Youtube Clone made through ReactJs ans Rapid API
+Youtube Clone made through ReactJs and Rapid API
